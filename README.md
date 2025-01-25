@@ -5,8 +5,9 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🚀 About Me
 I am a passionate **AI and Software Developer** dedicated to building innovative solutions that bridge technology and real-world challenges. I enjoy working with cutting-edge technologies like **Machine Learning**, **Deep Learning**, and **Cloud Solutions**, and I have expertise in:
 
-- **Programming Languages**: Python, Java
+- **Programming & Frameworks**: Python, Java, PyTorch, Prompt Engineering for LLMs
 - **Web Development**: React
+- **Machine Learning**: CNNs, Large Language Models (LLMs)
 - **Databases**: SQL, MySQL, PostgreSQL, NoSQL (MongoDB)  
 - **Cloud Platforms**: Google Cloud, AWS, Azure  
 - **DevOps Tools**: Kubernetes, Docker  
@@ -45,16 +46,13 @@ Here are some of the languages and technologies I've worked with:
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-232F3E?style=flat&logo=python&logoColor=white) 
-![Data Engineering](https://img.shields.io/badge/-ETL%20Jobs-00BFB3?style=flat&logo=python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
 
 ### Cloud Service
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
 
 ### Message Queuing & Authentication
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) 
@@ -79,13 +77,7 @@ Here are a few highlights:
 - **[Mobility-Application](https://github.com/HopeyCodeDS/mobility-application)**: [A Java based transport management web application that manages data related to people, buses, and bus stops in a public transportation network 
 - **[AI Model for CNNs](link-to-repo)**: Designed and trained convolutional neural networks for image classification tasks.
 - **[Kubernetes-Based Scalable System](link-to-repo)**: Deployed containerized applications with Kubernetes for dynamic scalability.
-- **[LLM-Powered Chatbot](https://github.com/HopeyCodeDS/RAG-Deployment)**: Developed a conversational AI using prompt engineering and fine-tuned LLMs.
-  
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=HopeyCodeDS&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HopeyCodeDS&layout=compact)](https://github.com/HopeyCodeDS/github-readme-stats)
+- **[LLM-Powered Chatbot](https://github.com/HopeyCodeDS/RAG-Deployment)**: Developed a conversational AI using prompt engineering and fine-tuned LLMs.  
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opeyemi-momodu-b92212b2/)
