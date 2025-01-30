@@ -73,8 +73,8 @@ Here are some of the languages and technologies I've worked with:
 
 ## 🌟 Projects
 Here are a few highlights:
-- **[RAG-Based Chatbot](https://github.com/HopeyCodeDS/RAG-based-chatbot-integration)**: [A conversational AI chatbot build for a game platform].
-- **[Mobility-Application](https://github.com/HopeyCodeDS/mobility-application)**: [A Java based transport management web application that manages data related to people, buses, and bus stops in a public transportation network 
+- **[RAG-Based Chatbot](https://github.com/HopeyCodeDS/RAG-based-chatbot-integration)**: A conversational AI chatbot build for a game platform.
+- **[Mobility-Application](https://github.com/HopeyCodeDS/mobility-application)**: A Java based transport management web application that manages data related to people, buses, and bus stops in a public transportation network 
 - **[AI Model for CNNs](link-to-repo)**: Designed and trained convolutional neural networks for image classification tasks.
 - **[Kubernetes-Based Scalable System](https://github.com/HopeyCodeDS/multi-container-app)**: Deployed containerized applications with Kubernetes for dynamic scalability.
 - **[LLM-Powered Chatbot](https://github.com/HopeyCodeDS/RAG-Deployment)**: Developed a conversational AI using prompt engineering and fine-tuned LLMs.  
