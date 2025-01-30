@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🚀 About Me
 I am a passionate **AI and Software Developer** dedicated to building innovative solutions that bridge technology and real-world challenges. I enjoy working with cutting-edge technologies like **Machine Learning**, **Deep Learning**, and **Cloud Solutions**, and I have expertise in:
 
-- **Programming & Frameworks**: Python, Java, PyTorch, Prompt Engineering for LLMs
+- **Programming & Frameworks**: Python, Java, PyTorch, Prompt Engineering for LLMs etc
 - **Web Development**: React
 - **Machine Learning**: CNNs, Large Language Models (LLMs)
 - **Databases**: SQL, MySQL, PostgreSQL, NoSQL (MongoDB)  
