@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 ## 🚀 About Me
-I am a passionate **AI and Software Developer** dedicated to building innovative solutions that bridge technology and real-world challenges. I enjoy working with cutting-edge technologies like **Machine Learning**, **Deep Learning**, and **Cloud Solutions**, and I have expertise in:
+I am a passionate **AI and Software Developer** dedicated to building innovative solutions that bridge technology and real-world challenges. I enjoy working with cutting-edge technologies like **Machine Learning**, **Deep Learning**, and **Cloud Solutions** including full stack technologies, and I have expertise in:
 
 - **Programming & Frameworks**: Python, Java, PyTorch, Prompt Engineering for LLMs etc
 - **Web Development**: React
@@ -77,7 +77,16 @@ Here are a few highlights:
 - **[Mobility-Application](https://github.com/HopeyCodeDS/mobility-application)**: A Java based transport management web application that manages data related to people, buses, and bus stops in a public transportation network 
 - **[AI Model for CNNs](link-to-repo)**: Designed and trained convolutional neural networks for image classification tasks.
 - **[Kubernetes-Based Scalable System](https://github.com/HopeyCodeDS/multi-container-app)**: Deployed containerized applications with Kubernetes for dynamic scalability.
-- **[LLM-Powered Chatbot](https://github.com/HopeyCodeDS/RAG-Deployment)**: Developed a conversational AI using prompt engineering and fine-tuned LLMs.  
+- **[LLM-Powered Chatbot](https://github.com/HopeyCodeDS/RAG-Deployment)**: Developed a conversational AI using prompt engineering and fine-tuned LLMs.
+- ## 🌍 MineralFlow-KdG
+
+    A full-stack software development project consisting of:
+    
+    - [Frontend Repository](https://github.com/HopeyCodeDS/frontend)
+    - [Backend Repository](https://github.com/HopeyCodeDS/backend)
+
+    Click [here](https://github.com/HopeyCodeDS) to view both together under my GitHub.
+
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opeyemi-momodu-b92212b2/)
