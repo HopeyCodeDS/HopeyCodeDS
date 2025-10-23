@@ -92,7 +92,7 @@ Here are a few highlights:
     - [Frontend Repository](https://github.com/HopeyCodeDS/frontend)
     - [Backend Repository](https://github.com/HopeyCodeDS/backend)
 
-    Click [here](https://github.com/HopeyCodeDS) to view both together under my GitHub.
+    Click [here](https://github.com/HopeyCodeDS?tab=repositories) to view both together under my GitHub.
 
 
 ## 🌐 Connect with Me
