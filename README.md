@@ -3,17 +3,23 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 ## 🚀 About Me
-I am a passionate **AI and Software Developer** dedicated to building innovative solutions that bridge technology and real-world challenges. I enjoy working with cutting-edge technologies like **Machine Learning**, **Deep Learning**, and **Cloud Solutions** including full stack technologies, and I have expertise in:
 
-- **Programming & Frameworks**: Python, Java, PyTorch, Prompt Engineering for LLMs etc
-- **Web Development**: React
-- **Machine Learning**: CNNs, Large Language Models (LLMs)
-- **Databases**: SQL, MySQL, PostgreSQL, NoSQL (MongoDB)  
-- **Cloud Platforms**: Google Cloud, AWS, Azure  
-- **DevOps Tools**: Kubernetes, Docker  
-- **Operating Systems**: Linux
+I’m an AI & Software Engineer passionate about transforming ideas into intelligent, data-driven solutions. My work blends machine learning, cloud technologies, and full-stack development to build scalable systems that solve real-world problems.
 
-I am constantly exploring emerging technologies and tools to contribute to impactful projects and solve real-world challenges.
+I thrive at the intersection of AI research and software engineering, with experience spanning LLMs, computer vision, NLP, and distributed systems. I enjoy designing elegant architectures, experimenting with emerging AI models, and deploying solutions that make an impact.
+
+💡 Technical Highlights
+
+Programming Languages & Frameworks: Python, Java, PyTorch, TensorFlow, LangChain, FastAPI
+AI & ML: CNNs, LLMs, RAG Systems, NLP, Deep Learning
+Web Development: React, TypeScript, Flask, Spring Boot
+Databases: PostgreSQL, MySQL, MongoDB, Neo4j
+Cloud & DevOps: Docker, Kubernetes, Terraform, AWS, Google Cloud, Azure
+Other Skills: Prompt Engineering, API Design, Event-Driven Architecture, Linux
+
+I’m continuously learning, building, and experimenting — whether it’s fine-tuning LLMs, developing intelligent chatbots, or architecting full-stack systems for real-time analytics.
+
+Let’s connect and build something that matters. 🌍🤖
 
 ## 🛠️ Technologies & Tools
 
@@ -73,9 +79,10 @@ Here are some of the languages and technologies I've worked with:
 
 ## 🌟 Projects
 Here are a few highlights:
-- **[RAG-Based Chatbot](https://github.com/HopeyCodeDS/RAG-based-chatbot-integration)**: A conversational AI chatbot build for a game platform.
+- **[RAG-Based Chatbot](https://github.com/HopeyCodeDS/RAG-based-chatbot-integration)**: A conversational AI chatbot built for a game platform.
+- **[NLP Sentiment Chat](https://github.com/HopeyCodeDS/nlp-sentiment-chat)** – Interactive chatbot integrating Aspect-Based Sentiment Analysis using spaCy, machine learning, and local LLMs (Ollama) with a Streamlit interface.
 - **[Mobility-Application](https://github.com/HopeyCodeDS/mobility-application)**: A Java based transport management web application that manages data related to people, buses, and bus stops in a public transportation network 
-- **[AI Model for CNNs](link-to-repo)**: Designed and trained convolutional neural networks for image classification tasks.
+- **[AI Model for CNNs](https://github.com/HopeyCodeDS/emotion-recognition-cnn)**: Designed and trained convolutional neural networks for image classification tasks.
 - **[Kubernetes-Based Scalable System](https://github.com/HopeyCodeDS/multi-container-app)**: Deployed containerized applications with Kubernetes for dynamic scalability.
 - **[LLM-Powered Chatbot](https://github.com/HopeyCodeDS/RAG-Deployment)**: Developed a conversational AI using prompt engineering and fine-tuned LLMs.
 - ## 🌍 MineralFlow-KdG
