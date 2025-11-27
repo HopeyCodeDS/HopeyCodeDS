@@ -10,14 +10,14 @@ I thrive at the intersection of AI research and software engineering, with exper
 
 💡 Technical Highlights
 
-Programming Languages & Frameworks: Python, Java, PyTorch, TensorFlow, LangChain, FastAPI
-AI & ML: CNNs, LLMs, RAG Systems, NLP, Deep Learning
-Web Development: React, TypeScript, Flask, Spring Boot
-Databases: PostgreSQL, MySQL, MongoDB, Neo4j
-Cloud & DevOps: Docker, Kubernetes, Terraform, AWS, Google Cloud, Azure
-Other Skills: Prompt Engineering, API Design, Event-Driven Architecture, Linux
+- Programming Languages & Frameworks: Python, Java, PyTorch, TensorFlow, LangChain, LangGraph, FastAPI
+- AI & ML: CNNs, LLMs, RAG Systems, NLP, Deep Learning, spaCy, CV, Transformers
+- Web Development: React, TypeScript, Flask, Spring Boot
+- Databases: PostgreSQL, MySQL, MongoDB, Neo4j, Data warehousing, Real-time Streaming
+- Cloud & DevOps: Docker, Kubernetes, Terraform, AWS, Google Cloud, Azure
+- Other Skills: Prompt Engineering, Agentic Workflows, API Design, Event-Driven Architecture, Linux
 
-I’m continuously learning, building, and experimenting — whether it’s fine-tuning LLMs, developing intelligent chatbots, or architecting full-stack systems for real-time analytics.
+I’m continuously learning, building, and experimenting — whether it’s fine-tuning LLMs, Multi-agents design, developing intelligent chatbots, or architecting full-stack systems for real-time analytics.
 
 Let’s connect and build something that matters. 🌍🤖
 
