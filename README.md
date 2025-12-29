@@ -80,6 +80,8 @@ Here are some of the languages and technologies I've worked with:
 ## 🌟 Projects
 Here are a few highlights:
 - **[RAG-Based Chatbot](https://github.com/HopeyCodeDS/RAG-based-chatbot-integration)**: A conversational AI chatbot built for a game platform.
+- **[Automated Label detection and matching system](https://github.com/HopeyCodeDS/automated-label-detection-and-matching-OCRservice)**: OCR-based document and label processing application to automate warehouse workflows. **Checkout** the backend flow -> **[https://github.com/HopeyCodeDS/automated-label-detection-and-matching-backend]**
+                            mobile frontend -> **[https://github.com/HopeyCodeDS/automated-label-detection-and-matching-frontend]**
 - **[NLP Sentiment Chat](https://github.com/HopeyCodeDS/nlp-sentiment-chat)** – Interactive chatbot integrating Aspect-Based Sentiment Analysis using spaCy, machine learning, and local LLMs (Ollama) with a Streamlit interface.
 - **[Mobility-Application](https://github.com/HopeyCodeDS/mobility-application)**: A Java based transport management web application that manages data related to people, buses, and bus stops in a public transportation network 
 - **[AI Model for CNNs](https://github.com/HopeyCodeDS/emotion-recognition-cnn)**: Designed and trained convolutional neural networks for image classification tasks.
