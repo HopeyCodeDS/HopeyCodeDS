@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 I’m an AI & Software Engineer passionate about transforming ideas into intelligent, data-driven solutions. My work blends machine learning, cloud technologies, and full-stack development to build scalable systems that solve real-world problems.
 
-I thrive at the intersection of AI research and software engineering, with experience spanning LLMs, computer vision, NLP, and distributed systems. I enjoy designing elegant architectures, experimenting with emerging AI models, and deploying solutions that make an impact.
+I thrive at the intersection of AI research and software engineering, with experience spanning full-stack App development, Generative AI & LLMs, computer vision, NLP, and distributed systems. I enjoy designing elegant architectures, experimenting with emerging AI models, and deploying solutions that make an impact.
 
 💡 Technical Highlights
 
