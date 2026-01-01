@@ -81,6 +81,7 @@ Here are some of the languages and technologies I've worked with:
 ## 🌟 Projects
 Here are a few highlights:
 - **[RAG-Based Chatbot](https://github.com/HopeyCodeDS/RAG-based-chatbot-integration)**: A conversational AI chatbot built for a game platform.
+- **[DocFlow-AI](https://github.com/HopeyCodeDS/docflow-ai)**: DocFlow AI helps logistics teams reduce manual work and errors by automatically extracting, validating, and structuring data from transport documents — while keeping humans in control for critical decisions.
 - **[Automated Label detection and matching system](https://github.com/HopeyCodeDS/automated-label-detection-and-matching-OCRservice)**: OCR-based document and label processing application to automate warehouse workflows. **Checkout** the backend flow -> **[https://github.com/HopeyCodeDS/automated-label-detection-and-matching-backend]**
                             mobile frontend -> **[https://github.com/HopeyCodeDS/automated-label-detection-and-matching-frontend]**
 - **[NLP Sentiment Chat](https://github.com/HopeyCodeDS/nlp-sentiment-chat)** – Interactive chatbot integrating Aspect-Based Sentiment Analysis using spaCy, machine learning, and local LLMs (Ollama) with a Streamlit interface.
