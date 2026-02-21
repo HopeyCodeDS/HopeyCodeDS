@@ -1,108 +1,168 @@
-# Hi there 👋, I'm HopeyCodeDS! (Also as opeyemi-ai)
+# 👋 Hi, I'm Opeyemi — AI Engineer & Software Developer
 
-Welcome to my GitHub profile! Here's a little about me:
+I design and build **intelligent, scalable AI systems** that solve real-world problems using modern software architecture, cloud infrastructure, and cutting-edge machine learning.
 
-## 🚀 About Me
-
-I’m an AI & Software Engineer passionate about transforming ideas into intelligent, data-driven solutions. My work blends machine learning, cloud technologies, and full-stack development to build scalable systems that solve real-world problems.
-
-I thrive at the intersection of AI research and software engineering, with experience spanning full-stack App development, Generative AI & LLMs, computer vision, NLP, and distributed systems. I enjoy designing elegant architectures, experimenting with emerging AI models, and deploying solutions that make an impact.
-
-💡 Technical Highlights
-
-- Programming Languages & Frameworks: Python, Java, PyTorch, TensorFlow, LangChain, LangGraph, FastAPI
-- AI & ML: CNNs, LLMs, RAG Systems, NLP, Deep Learning, spaCy, CV, Transformers
-- Web Development: React, TypeScript, Flask, Spring Boot
-- Databases: PostgreSQL, MySQL, MongoDB, Neo4j, Data warehousing, Real-time Streaming
-- Cloud & DevOps: Docker, Kubernetes, Terraform, AWS, Google Cloud, Azure
-- Other Skills: Prompt Engineering, Agentic Workflows, API Design, Event-Driven Architecture, Linux
-
-I’m continuously learning, building, and experimenting — whether it’s fine-tuning LLMs, Multi-agents design, developing intelligent chatbots, or architecting full-stack systems for real-time analytics.
-
-Let’s connect and build something that matters. 🌍🤖
-
-## 🛠️ Technologies & Tools
-
-Here are some of the languages and technologies I've worked with:
-
-### Back-End
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) 
-
-### Front-End
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) 
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-### AI & Data Science
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=matplotlib&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
-
-### Cloud Service
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### Message Queuing & Authentication
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) 
-![Keycloak](https://img.shields.io/badge/-Keycloak-000000?style=flat&logo=keycloak&logoColor=white)
-
-### Hardware & IoT
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-
-### Version Control
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
-
-### Other Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-000000?style=flat&logo=gitlab-ci&logoColor=white) 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-## 🌟 Projects
-Here are a few highlights:
-- **[RAG-Based Chatbot](https://github.com/HopeyCodeDS/RAG-based-chatbot-integration)**: A conversational AI chatbot built for a game platform.
-- **[DocFlow-AI](https://github.com/HopeyCodeDS/docflow-ai)**: DocFlow AI helps logistics teams reduce manual work and errors by automatically extracting, validating, and structuring data from transport documents — while keeping humans in control for critical decisions.
-- **[Automated Label detection and matching system](https://github.com/HopeyCodeDS/automated-label-detection-and-matching-OCRservice)**: OCR-based document and label processing application to automate warehouse workflows. **Checkout** the backend flow -> **[https://github.com/HopeyCodeDS/automated-label-detection-and-matching-backend]**
-                            mobile frontend -> **[https://github.com/HopeyCodeDS/automated-label-detection-and-matching-frontend]**
-- **[NLP Sentiment Chat](https://github.com/HopeyCodeDS/nlp-sentiment-chat)** – Interactive chatbot integrating Aspect-Based Sentiment Analysis using spaCy, machine learning, and local LLMs (Ollama) with a Streamlit interface.
-- **[Mobility-Application](https://github.com/HopeyCodeDS/mobility-application)**: A Java based transport management web application that manages data related to people, buses, and bus stops in a public transportation network 
-- **[AI Model for CNNs](https://github.com/HopeyCodeDS/emotion-recognition-cnn)**: Designed and trained convolutional neural networks for image classification tasks.
-- **[Kubernetes-Based Scalable System](https://github.com/HopeyCodeDS/multi-container-app)**: Deployed containerized applications with Kubernetes for dynamic scalability.
-- **[LLM-Powered Chatbot](https://github.com/HopeyCodeDS/RAG-Deployment)**: Developed a conversational AI using prompt engineering and fine-tuned LLMs.
-- ## 🌍 MineralFlow-KdG
-
-    A full-stack software development project consisting of:
-    
-    - [Frontend Repository](https://github.com/HopeyCodeDS/frontend)
-    - [Backend Repository](https://github.com/HopeyCodeDS/backend)
-
-    Click [here](https://github.com/HopeyCodeDS?tab=repositories) to view both together under my GitHub.
-
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opeyemi-momodu-b92212b2/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/opemomodu)
+**Specializing in:**
+- Generative AI & LLM Applications  
+- Retrieval-Augmented Generation (RAG) Systems  
+- Multi-Agent AI Workflows & Orchestration  
+- Scalable Backend & Cloud-Native Architectures  
 
 ---
 
-Thank you for stopping by! Feel free to connect or explore my work. 😄
+## What I'm Currently Working On
+
+- Building **production-ready multi-agent AI orchestration systems**
+- Designing **advanced RAG pipelines** with evaluation & monitoring
+- Designing scalable LLM applications with LangGraph & cloud deployment
+- Experimenting with **LLMOps, tracing, and AI system observability**
+
+---
+
+## 🚀 About Me
+
+I’m an **AI & Software Engineer** passionate about transforming ideas into intelligent, data-driven solutions.
+
+My work sits at the intersection of **AI research and software engineering**, where I design and deploy production-ready systems powered by machine learning, cloud technologies, and modern backend architecture.
+
+I enjoy:
+- Architecting scalable AI platforms
+- Designing data pipelines and vector retrieval systems
+- Building multi-agent workflows
+- Deploying real-time AI applications in the cloud
+
+I’m continuously learning, building, and experimenting — from fine-tuning LLMs to architecting full-stack AI systems that make real impact.
+
+---
+
+## Core Tech Stack
+
+### AI & Machine Learning
+- Python, PyTorch, TensorFlow
+- Transformers, CNNs, NLP, Computer Vision
+- LangChain, LangGraph, spaCy
+- RAG Systems & LLM Application Design
+
+### Backend & Systems
+- FastAPI, Flask, Spring Boot, Java
+- REST APIs & Microservices Architecture
+- Event-Driven Systems & Distributed Design
+
+### Cloud & DevOps
+- Docker, Kubernetes, Terraform
+- AWS, Google Cloud, Azure
+- CI/CD Pipelines & Containerized Deployment
+
+### Data & Databases
+- PostgreSQL, MySQL, MongoDB, Neo4j
+- Data Warehousing & Real-Time Streaming
+- Vector Databases & Retrieval Pipelines
+
+---
+
+## Featured AI Projects
+
+### RAG-Based Chatbot
+End-to-end Retrieval-Augmented Generation system integrating vector search, LLM orchestration, and conversational memory.
+
+**Key Highlights:**
+- Reduced hallucinations using semantic retrieval pipelines
+- Implemented LangChain agent workflows with tool calling
+- Designed scalable FastAPI backend with vector database integration
+
+🔗 https://github.com/HopeyCodeDS/RAG-based-chatbot-integration
+
+---
+
+### Sortex — Intelligent Document Processing
+AI system that automates extraction, validation, and structuring of logistics transport documents.
+
+**Impact:**
+- Reduced manual processing workload significantly
+- Combined OCR, NLP, and validation pipelines
+- Human-in-the-loop workflow for decision control
+
+🔗 https://github.com/HopeyCodeDS/docflow-ai
+
+---
+
+### Serverless RAG API — PDF Knowledge Base Q&A Service
+Serverless API that answers natural-language queries against PDF documents using retrieval-augmented generation.
+
+Impact:
+
+- Grounded answers with source citations from uploaded PDFs
+- Vector search (ChromaDB) + LLM (AWS Bedrock Claude) RAG pipeline
+- Production-ready deployment on AWS Lambda via Docker
+
+🔗 https://github.com/HopeyCodeDS/serverless-rag-api
+
+---
+
+### Automated Label Detection & Matching System
+OCR-powered application that automates warehouse label processing and matching workflows.
+
+**Features:**
+- Real-time label detection using computer vision
+- End-to-end backend pipeline for document automation
+- Mobile frontend integration for operational use
+
+Backend:
+🔗 https://github.com/HopeyCodeDS/automated-label-detection-and-matching-backend
+
+Frontend:
+🔗 https://github.com/HopeyCodeDS/automated-label-detection-and-matching-frontend
+
+---
+
+### Kubernetes-Based Scalable System
+Containerized multi-service architecture deployed with Kubernetes for dynamic scalability.
+
+**Highlights:**
+- Microservices deployment using Docker & Kubernetes
+- Auto-scaling and load balancing implementation
+- Cloud-ready production architecture
+
+🔗 https://github.com/HopeyCodeDS/multi-container-app
+
+---
+
+## Other Notable Projects
+
+- NLP Sentiment Chat — Aspect-based sentiment analysis chatbot with local LLMs  
+- Mobility Application — Java transport management system  
+- CNN Emotion Recognition Model — Deep learning image classification system
+- MineralFlow-KdG — Full-stack enterprise logistics platform with separate services: [Frontend](https://github.com/HopeyCodeDS/frontend) | [Backend](https://github.com/HopeyCodeDS/backend)
+
+👉 View all repositories:
+https://github.com/HopeyCodeDS?tab=repositories
+
+---
+
+## 🌍 Connect With Me
+
+LinkedIn:  
+https://www.linkedin.com/in/opeyemi-momodu-b92212b2/
+
+Twitter / X:  
+https://twitter.com/opemomodu
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HopeyCodeDS&show_icons=true&theme=default&cache_seconds=86400)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HopeyCodeDS&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## 🤝 Let's Build Something That Matters
+
+I’m always open to collaborating on:
+- AI system architecture projects
+- LLM applications
+- Multi-agent platforms
+- Scalable cloud-based AI solutions
+
+Feel free to connect or explore my work!
