@@ -10,15 +10,6 @@ I design and build **intelligent, scalable AI systems** that solve real-world pr
 
 ---
 
-## What I'm Currently Working On
-
-- Building **production-ready multi-agent AI orchestration systems**
-- Designing **advanced RAG pipelines** with evaluation & monitoring
-- Designing scalable LLM applications with LangGraph & cloud deployment
-- Experimenting with **LLMOps, tracing, and AI system observability**
-
----
-
 ## 🚀 About Me
 
 I’m an **AI & Software Engineer** passionate about transforming ideas into intelligent, data-driven solutions.
