@@ -87,7 +87,7 @@ AI system that automates extraction, validation, and structuring of logistics tr
 - Combined OCR, NLP, and validation pipelines
 - Human-in-the-loop workflow for decision control
 
-🔗 https://github.com/HopeyCodeDS/docflow-ai
+🔗 https://github.com/HopeyCodeDS/sortex-ai
 
 ---
 
