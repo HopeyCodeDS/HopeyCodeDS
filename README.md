@@ -53,6 +53,20 @@ I’m continuously learning, building, and experimenting — from fine-tuning LL
 
 ## Featured AI Projects
 
+### VentureSignal — AI-Powered B2B SaaS Startup Screener
+AI deal-sourcing pipeline that ingests YC startup data, enriches companies via web scraping, and scores them against a VC investment thesis using LLMs.
+
+**Key Highlights:**
+- Automated end-to-end VC analyst workflow: ingest → enrich → score → dashboard
+- LLM scoring engine (Claude API) with structured JSON output validated by Pydantic
+- Async Python backend (FastAPI + httpx) with rate-limited external calls
+- React + TypeScript dashboard with filtering, sorting, and score breakdowns
+- Dockerized multi-service architecture with CI/CD via GitHub Actions
+
+🔗 https://github.com/HopeyCodeDS/venturesignal
+
+---
+
 ### RAG-Based Chatbot
 End-to-end Retrieval-Augmented Generation system integrating vector search, LLM orchestration, and conversational memory.
 
