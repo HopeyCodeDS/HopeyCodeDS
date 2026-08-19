@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Opeyemi — AI & Data Engineer
+# 👋 Hi, I'm Opeyemi — AI Full Stack & Data Engineer
 
 Building production-grade AI Software systems, intelligent data platforms, and cloud-native applications that transform raw data into scalable, real-world solutions.
 
