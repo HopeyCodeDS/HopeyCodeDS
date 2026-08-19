@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Opeyemi — AI & Data Engineer
 
-Building production-grade AI systems, intelligent data platforms, and cloud-native applications that transform raw data into scalable, real-world solutions.
+Building production-grade AI Software systems, intelligent data platforms, and cloud-native applications that transform raw data into scalable, real-world solutions.
 
-**Focus:** Generative AI • Data Engineering • Agentic AI • Advanced RAG • Machine Learning • Cloud Architecture • Software Engineering
+**Focus:** Generative AI • Software Engineering • Data Engineering • Agentic AI • Advanced RAG • Machine Learning • Cloud Architecture 
 
 ---
 
@@ -227,4 +227,4 @@ Building production-grade AI systems, intelligent data platforms, and cloud-nati
 
 > **Always building production-ready AI systems that bridge modern data engineering, software engineering, and intelligent automation.**
 
-⭐ **Open to AI Engineer, Data Engineer, Machine Learning Engineer, GenAI Engineer, AI Platform Engineer, and Applied AI opportunities.**
+⭐ **Open to AI Engineer, Software Engineer, Data Engineer, Machine Learning Engineer, GenAI Engineer, AI Platform Engineer, and Applied AI opportunities.**
