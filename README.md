@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Opeyemi — AI Full Stack & Data Engineer
 
-Building production-grade AI Software systems, intelligent data platforms, and cloud-native applications that transform raw data into scalable, real-world solutions.
+Building production-grade AI Software systems, integrated systems, intelligent data platforms, and cloud-native applications that transform raw data into scalable, real-world solutions.
 
 **Focus:** Generative AI • Software Engineering • Data Engineering • Agentic AI • Advanced RAG • Machine Learning • Cloud Architecture 
 
