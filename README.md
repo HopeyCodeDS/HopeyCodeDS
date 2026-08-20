@@ -21,6 +21,7 @@ Building production-grade AI Software systems, integrated systems, intelligent d
 - 📈 Machine Learning & Predictive Analytics
 - 🔍 AI Evaluation & Observability
 - 💻 Backend Engineering & API Development
+- ⚙️ Build Automation, Script settings and plugin configurations
 
 ---
 
