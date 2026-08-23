@@ -25,28 +25,31 @@ Building **integration-ready software systems, intelligent data platforms, and A
 
 ## 🚀 About Me
 
-I'm a Software, Data & AI Engineer with a unique dual background in software engineering and operational logistics. I design and build scalable backend systems, enterprise integrations, data platforms, and intelligent automation solutions that solve real operational challenges.
+I'm a Software, Data & AI Engineer with a unique dual background in software engineering and operational logistics. I design and build integration-ready backend systems, enterprise APIs, data platforms, and intelligent automation solutions that solve real operational challenges.
 
 My interests lie at the intersection of:
 
-- ⚙️ Software & Systems Integration
-- 🔗 REST APIs & Enterprise Integration
-- 🐍 Backend Engineering (Python & Java)
-- 📊 Data Engineering & ETL/ELT
-- 🤖 Intelligent Automation & Applied AI
-- 🚛 Logistics & Warehouse Technology
+⚙️ Software & Systems Integration
+🔗 REST APIs & Enterprise Integration
+🐍 Backend Engineering (Python, Java & C#)
+📦 Docker, Microservices & Distributed Systems
+📊 Data Engineering, ETL/ELT & Real-Time Data Pipelines
+🤖 Intelligent Automation & Applied AI
+🚛 Logistics & Warehouse Technology Solutions
+☁️ Cloud-Native Application Development
+🧪 Integration Testing & Technical Documentation
 
 ---
 
 # 🏗 Featured Engineering Projects
 
-| Project | What it solves | Stack |
-|----------|----------------|------|
-| 🚚 **MineralFlow** | Warehouse, truck & shipping logistics management | Java, Spring Boot, RabbitMQ, React |
-| 📄 **Sortex** | Intelligent logistics document processing & TMS integration | Python, FastAPI, PostgreSQL, Docker |
-| 🏭 **H. Essers Warehouse Solution** | Warehouse label detection & operational automation | PaddleOCR, Spring Boot, React Native |
-| 📡 **Industrial Anomaly Pipeline** | Real-time industrial sensor analytics | Kafka, Spark, Flask, Docker |
-
+| Project | What it solves | Stack | Link |
+|----------|----------------|-------|------|
+| 🚚 **MineralFlow** | Warehouse, truck & shipping logistics management | Java, Spring Boot, RabbitMQ, React | **[Repository](https://github.com/HopeyCodeDS/backend)** |
+| 📄 **Sortex** | Intelligent logistics document processing & TMS integration | Python, FastAPI, PostgreSQL, Docker | **[Repository](https://github.com/HopeyCodeDS/sortex-ai)** |
+| 🏭 **H. Essers Warehouse Solution** | Warehouse label detection & operational automation | PaddleOCR, Spring Boot, React Native, Docker | **[Repository](https://github.com/HopeyCodeDS/automated-label-detection-and-matching-backend)** |
+| 📡 **Industrial Anomaly Pipeline** | Real-time industrial sensor analytics | Kafka, Spark, Flask, Docker | **[Repository](https://github.com/HopeyCodeDS/realtime-anomaly-detection-pipeline)** |
+| 🤖 **LangGraph Agentic RAG** | Self-correcting AI retrieval & reasoning system | Python, LangGraph, FAISS, Streamlit | **[Repository](https://github.com/HopeyCodeDS/LangGraph-Agentic-RAG)** |
 ---
 
 # 💻 Tech Stack
