@@ -29,15 +29,15 @@ I'm a Software, Data & AI Engineer with a unique dual background in software eng
 
 My interests lie at the intersection of:
 
-⚙️ Software & Systems Integration
-🔗 REST APIs & Enterprise Integration
-🐍 Backend Engineering (Python, Java & C#)
-📦 Docker, Microservices & Distributed Systems
-📊 Data Engineering, ETL/ELT & Real-Time Data Pipelines
-🤖 Intelligent Automation & Applied AI
-🚛 Logistics & Warehouse Technology Solutions
-☁️ Cloud-Native Application Development
-🧪 Integration Testing & Technical Documentation
+⚙️ Software & Systems Integration  
+🔗 REST APIs & Enterprise Integration  
+🐍 Backend Engineering (Python, Java & C#)  
+📦 Docker, Microservices & Distributed Systems  
+📊 Data Engineering, ETL/ELT & Real-Time Data Pipelines  
+🤖 Intelligent Automation & Applied AI  
+🚛 Logistics & Warehouse Technology Solutions  
+☁️ Cloud-Native Application Development  
+🧪 Integration Testing & Technical Documentation  
 
 ---
 
