@@ -63,9 +63,9 @@ Currently exploring:
 | Project | What it solves | Stack | Link |
 |----------|----------------|-------|------|
 | 🏭 **Warehouse Integration Simulator (WIS)** | Local simulation of ERP, WMS, MQTT, PLC/OPC UA, and robot workflows | Python, FastAPI, MQTT, OPC UA, React, Docker | **[Repository](https://github.com/HopeyCodeDS/warehouse-integration-simulator)** |
-| 🚚 **MineralFlow** | Truck arrivals, warehousing, shipping & invoicing (DDD/CQRS) | Java, Spring Boot, RabbitMQ, React, Keycloak | **[Repository](https://github.com/HopeyCodeDS/backend)** |
+| 🚚 **MineralFlow** | Truck arrivals, warehousing, shipping & invoicing (DDD/CQRS) | Java, Spring Boot, RabbitMQ, React, Keycloak | **[Repository](https://github.com/HopeyCodeDS/MineralFlow-Root)** |
 | 📄 **Sortex** | Intelligent logistics document processing & TMS integration | Python, FastAPI, PostgreSQL, Docker | **[Repository](https://github.com/HopeyCodeDS/sortex-ai)** |
-| 🏭 **H. Essers Warehouse Solution** | Automated warehouse label OCR & fuzzy matching for operations  | Python, PaddleOCR, Spring Boot, React Native, Azure, Docker | **[Repository](https://github.com/HopeyCodeDS/automated-label-detection-and-matching-backend)** | 
+| 🏭 **H. Essers Warehouse Solution** | Automated warehouse label OCR & fuzzy matching for operations  | Python, PaddleOCR, Spring Boot, React Native, Azure, Docker | **[Repository](https://github.com/HopeyCodeDS/H.Essers-Platform-Root)** | 
 | 💹 **Kinetix Pricing** | Real-time streaming data lakehouse & feature store for dynamic ML pricing | Kafka, Spark, Iceberg, dbt, Feast, AWS, gRPC | **[Repository](https://github.com/HopeyCodeDS/kinetix-pricing)** |
 | 📡 **Industrial Anomaly Pipeline** |  Real-time distributed telemetry analytics & anomaly detection | Kafka, Spark, Flask, Elasticsearch, Docker | **[Repository](https://github.com/HopeyCodeDS/realtime-anomaly-detection-pipeline)** |
 | 🤖 **LangGraph Agentic RAG** | Self-correcting AI retrieval & multi-hop reasoning system | Python, LangGraph, FAISS, Streamlit, Ollama | **[Repository](https://github.com/HopeyCodeDS/LangGraph-Agentic-RAG)** |
