@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Opeyemi Momodu
 
 ### Software, Data & AI Engineer
+📍 Based in Belgium | Preparatory Dutch Year at Ghent University (UCT)
+
+Open to Working Student opportunities (≤20h/week)
 
 Building **integration-ready software systems, intelligent data platforms, and AI-powered applications** that solve real operational and logistics challenges.
 
@@ -41,15 +44,31 @@ My interests lie at the intersection of:
 
 ---
 
+## Current Focus
+
+🏭 Building Warehouse Integration Simulator (WIS)
+
+Currently exploring:
+
+- ERP ↔ WMS integration
+- OPC UA & MQTT communication
+- Digital Twin HMIs
+- Commissioning & FAT/SAT workflows
+- Bounded AI for warehouse execution
+
+---
+
 # 🏗 Featured Engineering Projects
 
 | Project | What it solves | Stack | Link |
 |----------|----------------|-------|------|
-| 🚚 **MineralFlow** | Warehouse, truck & shipping logistics management | Java, Spring Boot, RabbitMQ, React | **[Repository](https://github.com/HopeyCodeDS/backend)** |
+| 🏭 **Warehouse Integration Simulator (WIS)** | Local simulation of ERP, WMS, MQTT, PLC/OPC UA, and robot workflows | Python, FastAPI, MQTT, OPC UA, React, Docker | **[Repository](https://github.com/HopeyCodeDS/warehouse-integration-simulator)** |
+| 🚚 **MineralFlow** | Truck arrivals, warehousing, shipping & invoicing (DDD/CQRS) | Java, Spring Boot, RabbitMQ, React, Keycloak | **[Repository](https://github.com/HopeyCodeDS/backend)** |
 | 📄 **Sortex** | Intelligent logistics document processing & TMS integration | Python, FastAPI, PostgreSQL, Docker | **[Repository](https://github.com/HopeyCodeDS/sortex-ai)** |
-| 🏭 **H. Essers Warehouse Solution** | Warehouse label detection & operational automation | PaddleOCR, Spring Boot, React Native, Docker | **[Repository](https://github.com/HopeyCodeDS/automated-label-detection-and-matching-backend)** |
-| 📡 **Industrial Anomaly Pipeline** | Real-time industrial sensor analytics | Kafka, Spark, Flask, Docker | **[Repository](https://github.com/HopeyCodeDS/realtime-anomaly-detection-pipeline)** |
-| 🤖 **LangGraph Agentic RAG** | Self-correcting AI retrieval & reasoning system | Python, LangGraph, FAISS, Streamlit | **[Repository](https://github.com/HopeyCodeDS/LangGraph-Agentic-RAG)** |
+| 🏭 **H. Essers Warehouse Solution** | Automated warehouse label OCR & fuzzy matching for operations  | Python, PaddleOCR, Spring Boot, React Native, Azure, Docker | **[Repository](https://github.com/HopeyCodeDS/automated-label-detection-and-matching-backend)** | 
+| 💹 **Kinetix Pricing** | Real-time streaming data lakehouse & feature store for dynamic ML pricing | Kafka, Spark, Iceberg, dbt, Feast, AWS, gRPC | **[Repository](https://github.com/HopeyCodeDS/kinetix-pricing)** |
+| 📡 **Industrial Anomaly Pipeline** |  Real-time distributed telemetry analytics & anomaly detection | Kafka, Spark, Flask, Elasticsearch, Docker | **[Repository](https://github.com/HopeyCodeDS/realtime-anomaly-detection-pipeline)** |
+| 🤖 **LangGraph Agentic RAG** | Self-correcting AI retrieval & multi-hop reasoning system | Python, LangGraph, FAISS, Streamlit, Ollama | **[Repository](https://github.com/HopeyCodeDS/LangGraph-Agentic-RAG)** |
 ---
 
 # 💻 Tech Stack
@@ -70,17 +89,28 @@ My interests lie at the intersection of:
 
 ---
 
-## 📊 Data Engineering
+## 🏭 OT & Industrial Integration (Intralogistics)
+<p align="center">
+<img src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPC_UA-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PLC_Simulation-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transactional_Outbox-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Data Engineering & Databases
 
 <p align="center">
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL_&_ELT-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Neo4j-018BFF?logo=neo4j&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL_&_ELT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
@@ -94,7 +124,6 @@ My interests lie at the intersection of:
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge"/>
 </p>
 
@@ -104,18 +133,18 @@ My interests lie at the intersection of:
 
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="GCP"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🎨 Frontend
+## 🎨 Frontend & UI
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
@@ -128,13 +157,13 @@ My interests lie at the intersection of:
 
 ---
 
-# 🌟 Engineering Principles
+# 🌟 Engineering Philosophy
 
-- **Build for reliability** over complexity.
-- **Design integrations** that are scalable and maintainable.
-- **Automate repetitive workflows** wherever possible.
-- **Translate operational problems** into practical software solutions.
-- **Continuously learn** technologies that create value for users and teams.
+- **Understand the Operations First:** Software doesn't exist in a vacuum. I focus on understanding the physical and operational realities (like warehouse floors or logistics networks) before designing the technical solution.
+- **Build for Reliability, Not Just Features:** I prefer writing straightforward, maintainable code that handles edge cases gracefully over building overly complex architectures.
+- **Automate the Repetitive:** Whether it's CI/CD pipelines, data validation, or document extraction, I look for ways to remove manual friction so the team can focus on solving harder problems.
+- **Iterate and Learn:** I treat every project as a learning opportunity. I value feedback loops, clean documentation, and continuously expanding my technical toolkit.
+- **Bridge the Gap:** I enjoy translating complex business requirements into practical, working software that end-users and operators actually trust.
 
 ---
 
