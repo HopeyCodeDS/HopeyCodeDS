@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Opeyemi Momodu
 
 ### Software, Data & AI Engineer
-📍 Based in Belgium | Preparatory Dutch Year at Ghent University (UCT)
-
-Open to Working Student opportunities (≤20h/week)
+📍 Based in Belgium 
 
 Building **integration-ready software systems, intelligent data platforms, and AI-powered applications** that solve real operational and logistics challenges.
 
